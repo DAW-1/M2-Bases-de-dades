@@ -1,3 +1,3 @@
-# M2-Bases-de-
+# M2-Bases-de-dades
 
 Dubtes sobre bases de dades
